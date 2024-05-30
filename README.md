@@ -1,4 +1,4 @@
-Airbnb Clone Website Using CSS and HTML
+# Airbnb Clone Website Using CSS and HTML
 
 ## Introduction
 An Airbnb clone website serves as a functional and aesthetic replica of the popular online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. This detailed report outlines the design, functionality, and implementation of an Airbnb clone using HTML for the structure and CSS for styling.
